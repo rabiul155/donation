@@ -74,3 +74,56 @@ span {
     border-bottom: 1px solid gray;
     margin-bottom: 20px;
 }
+
+.donation-plan {
+    text-align: center;
+
+}
+
+.donation-plan p {
+    color: gray;
+}
+
+.font {
+    font-size: 40px;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin: 50px;
+}
+
+.design {
+    width: 25%;
+    padding: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 20px aliceblue;
+    border-radius: 5px;
+
+}
+
+#id1 {
+    background-color: rgb(234, 249, 249);
+}
+
+#id2 {
+    background-color: rgb(249, 243, 190);
+}
+
+#id3 {
+    background-color: antiquewhite;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+
+    width: 80%;
+    margin-top: 50px;
+    height: 300px;
+}
