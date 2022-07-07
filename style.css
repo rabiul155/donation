@@ -40,6 +40,7 @@ h1 {
 
 }
 
+
 .section2 {
     margin-top: 30px;
     padding: 20px;
@@ -126,4 +127,59 @@ span {
     width: 80%;
     margin-top: 50px;
     height: 300px;
+}
+
+.my-update {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.mail-box {
+    background-color: antiquewhite;
+    color: beige;
+    width: 70%;
+    height: 100PX;
+    margin: 20PX 180PX;
+    padding-top: 80px;
+
+}
+
+.button {
+    margin-top: 5%;
+    text-decoration: none;
+    padding: 9px 30px;
+    border-radius: 3px;
+    color: aliceblue;
+    font-weight: 400;
+    background-image: linear-gradient(orange, tomato);
+}
+
+#mail {
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 2px;
+    border: 2px solid gainsboro;
+    font-weight: 400;
+    color: gray;
+    background-color: gainsboro;
+
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    height: 150px;
+    width: 100%;
+}
+
+.footer h3 {
+    font-size: 30px;
+    padding-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+
+}
+
+.footer p {
+    color: white;
 }
