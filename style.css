@@ -150,22 +150,23 @@ span {
 
 .button {
 
-    margin-left: 0%;
-    text-decoration: none;
+
+
+    border: 2px solid salmon;
     padding: 10px 30px;
-    border-radius: 2px;
+    border-radius: 3px;
     color: aliceblue;
-    font-weight: 400;
+    font-weight: 700;
     background-image: linear-gradient(orange, tomato);
 }
 
 #mail {
 
-    text-decoration: none;
+
     padding: 10px 5px;
     border: 2px solid gainsboro;
-    border-radius: 2px;
-    font-weight: 400;
+    border-radius: 3px;
+    font-weight: 500;
     color: gray;
     background-color: gainsboro;
 
